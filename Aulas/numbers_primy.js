@@ -70,3 +70,4 @@ function ehPrimo(n) {
   }
   console.log(filtraPrimos())
   console.log('final')
+  console.log('teste')
